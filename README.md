@@ -21,4 +21,9 @@ This repo is week 1 to week 5 of the Queen Mary University of London Data Scienc
 - Conditional Statements - if(), else(), else if()
 
 **Week 4:**
-- Git and GitHub
+- While Loops
+- Functions
+- Lists
+
+**Week 5:**
+- Good Coding Principles
